@@ -43,3 +43,4 @@ plugins:
 
 paginate: 3
 paginate_path: "/page/:num/"
+feed_icon: /assets/images/github-icon.png
